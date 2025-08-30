@@ -1,0 +1,5 @@
+body { font-family: sans-serif; text-align: center; }
+h1, h2 { color: #333; }
+form { margin: 20px; }
+button { padding: 10px; background: #4CAF50; color: white; border: none; }
+#gallery { margin-top: 20px; }
